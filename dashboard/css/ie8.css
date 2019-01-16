@@ -1,0 +1,291 @@
+.secondary-nav {
+    display: block;
+}
+
+.secondary-nav .profile-info {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 12px 0;
+}
+
+.secondary-nav .profile-info > a {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.secondary-nav .profile-info .icons {
+    padding-top: 20px;
+    margin-top: 20px !important;
+}
+
+.secondary-nav .search {
+    display: inline-block !important;
+    top: 25px;
+    position: absolute;
+    margin-left: 35px;
+}
+
+.secondary-nav .search form input {
+    border: 1px solid #ccc !important;
+    padding: 5px !important;
+}
+
+.secondary-nav side-bar-open {
+    display: inline-block;
+}
+
+#side-bar .logo img {
+    margin: 10px 5px;
+}
+
+footer {
+    right: 0 !important;
+    left: 0 !important;
+    z-index: 99999 !important;
+}
+
+#right-side .recent-activities {
+    height: 100%;
+    padding-bottom: 95px;
+}
+
+#right-side .recent-activities .panel-body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#add_assessment_btn {
+    width: 170px;
+    margin: 20px auto;
+}
+
+.add-on {
+    display: none;
+}
+
+.add-quality-member .data-container .basic-info .col-xs-12 p {
+    margin-bottom: -20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #555;
+}
+
+.add-quality-member .data-container .basic-info .col-xs-12 {
+    margin: 15px 0;
+}
+
+.add-quality-member .data-container button {
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.my-table th,
+.my-table th {
+    font-size: 16px !important;
+}
+
+.my-table tr th,
+.my-table tr td,
+.my-table tr th,
+.my-table tr td {
+    padding: 8px !important;
+}
+
+.my-table tr td,
+.my-table tr td {
+    font-size: 13px !important;
+}
+
+.my-table i,
+.my-table i {
+    font-size: 20px !important;
+}
+
+.profile-header .col-lg-5 {
+    width: 100%;
+    float: none;
+    display: block;
+}
+
+.profile-header .col-lg-7 {
+    display: block;
+    float: none;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.profile-header .member-statistics .member-statistics-icon {
+    margin: auto;
+    text-align: center;
+    position: relative;
+    padding-top: 20px;
+}
+
+.member .data-container,
+.member-profile .data-container {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.member .data-container .row,
+.member-profile .data-container .row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.member .data-container .progress-row,
+.member-profile .data-container .progress-row {
+    display: table;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.member .progress-row > .col-md-12,
+.member-profile .progress-row > .col-md-12 {
+    width: 50%;
+    display: table-cell;
+}
+
+.member .profile-info .profile-pic span,
+.member-profile .profile-info .profile-pic span {
+    bottom: 5px;
+    right: -10px;
+}
+
+.member #members_details .my-table td a,
+.member-profile #members_details .my-table td a {
+    font-size: 16px;
+}
+
+.member #members_details .my-table td a i,
+.member-profile #members_details .my-table td a i {
+    font-size: 16px;
+    margin-right: 3px;
+}
+
+.data-container-header .col-sm-5 a {
+    padding: 5px 10px;
+    font-size: 16px;
+    margin: -40px 0 20px 0 !important;
+    font-weight: bold;
+    color: #0aa699;
+    float: right;
+}
+
+.data-container-header .col-sm-5 a i {
+    margin: 0 5px 0 0;
+    font-size: 22px;
+}
+
+.fill-report .upload-container {
+    border: none;
+    height: auto;
+}
+
+.fill-report .upload-container p {
+    display: none;
+    height: 50px;
+}
+
+.fill-report input[type = 'file'] {
+    visibility: visible;
+    float: right;
+    width: 100%;
+}
+
+.grads {
+    display: table;
+    width: 100%;
+}
+
+.grads div[class^='col-'] {
+    display: table-cell;
+    width: 50%;
+}
+
+/*@media (min-width: 768px) and (max-width: 992px) {*/
+    /*.grads div[class^='col-'] {*/
+        /*display: table-cell;*/
+        /*width: 50%;*/
+    /*}*/
+/*}*/
+
+/*@media (max-width: 767px) {*/
+    /*.grads div[class^='col-'] {*/
+        /*width: 100%;*/
+    /*}*/
+/*}*/
+
+.grade input[type = 'radio'] {
+    display: inline !important;
+}
+
+.grade .grade-name {
+    display: inline !important;
+}
+
+.grade .grade-name span {
+    display: none;
+}
+
+.data-container .row {
+    display: table;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.data-container .row .col-sm-6 {
+    width: 50%;
+    display: table-cell;
+    margin: auto;
+}
+
+.view-assessment .my-table tr i {
+    margin: auto;
+}
+
+.activity-row {
+    display: table;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.activity-row .col-lg-4 {
+    width: 33.3333333333%;
+    display: table-cell;
+}
+
+.content-heading {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    display: table;
+    width: 100%;
+}
+
+.content-heading .col-sm-6 {
+    display: table-cell;
+    width: 50%;
+}
+
+#side-bar > ul {
+    max-height: 100%;
+    overflow: auto;
+}
+
+footer {
+    z-index: 0 !important;
+}
+
+#right-side {
+
+}
+
+.fill-report input[type = 'file'] {
+    visibility: visible;
+}

@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/dashboard/css/khabear.css" line="321" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84e8f44d-7433-4273-8c85-23cca0a001c6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/css/report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard/js/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/schedular.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/js/jquery.simpleWeather.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/upload.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.html" afterPath="$PROJECT_DIR$/admin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/css/khabear.css" afterPath="$PROJECT_DIR$/dashboard/css/khabear.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/js/main_dashboard.js" afterPath="$PROJECT_DIR$/dashboard/js/main_dashboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dashboard/js/admin.js" afterPath="$PROJECT_DIR$/dashboard/js/newAdmin.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="khabear" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>side-bar</find>
+      <find>.admin-select-assessment</find>
+      <find>creat</find>
+      <find>data</find>
+      <find>class</find>
+      <find>col</find>
+      <find>col-</find>
+      <find>select</find>
+      <find>oxygen</find>
+      <find>input</find>
+      <find>.input</find>
+      <find>padding</find>
+      <find>col-md-7</find>
+      <find>grade-name</find>
+      <find>Quality Members</find>
+      <find>popover-content</find>
+      <find>admin</find>
+      <find>content</find>
+      <find>y</find>
+      <find>ya</find>
+      <find>yah</find>
+      <find>yaho</find>
+      <find>yahoo</find>
+      <find>weather</find>
+      <find>قطر</find>
+      <find>table</find>
+      <find>dataTable</find>
+      <find>admin.</find>
+      <find>cairo</find>
+      <find>oxy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.create-assessment</replace>
+      <replace>cairo</replace>
+      <replace>cairo, sans-serif</replace>
+      <replace>margin</replace>
+      <replace>col-md-8</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\UI\Khabear\khabear Template</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dashboard/js/newAdmin.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../khabear_new/dashboard/css/khabear.css" />
+        <option value="$PROJECT_DIR$/dashboard/js/load-image.all.min.js" />
+        <option value="$PROJECT_DIR$/dashboard/js/load-image.all.js" />
+        <option value="$PROJECT_DIR$/dashboard/js/canvas-to-blob.js" />
+        <option value="$PROJECT_DIR$/dashboard/js/fill_report.js" />
+        <option value="$PROJECT_DIR$/main dashboard.html" />
+        <option value="$PROJECT_DIR$/dashboard/js/member.js" />
+        <option value="$PROJECT_DIR$/add assessment.html" />
+        <option value="$PROJECT_DIR$/add member.html" />
+        <option value="$PROJECT_DIR$/assessments index.html" />
+        <option value="$PROJECT_DIR$/fill report.html" />
+        <option value="$PROJECT_DIR$/member profile.html" />
+        <option value="$PROJECT_DIR$/members index.html" />
+        <option value="$PROJECT_DIR$/quality member profile.html" />
+        <option value="$PROJECT_DIR$/Admin.html" />
+        <option value="$PROJECT_DIR$/dashboard/js/add_assessment.js" />
+        <option value="$PROJECT_DIR$/Dashboard.html" />
+        <option value="$PROJECT_DIR$/dashboard.html" />
+        <option value="$PROJECT_DIR$/dashboard/js/dashboard.js" />
+        <option value="$PROJECT_DIR$/schedular.html" />
+        <option value="$PROJECT_DIR$/قثحخقف.html" />
+        <option value="$PROJECT_DIR$/report.html" />
+        <option value="$PROJECT_DIR$/dashboard/css/report.css" />
+        <option value="$PROJECT_DIR$/dashboard/js/main_dashboard.js" />
+        <option value="$PROJECT_DIR$/dashboard/js/admin.js" />
+        <option value="$PROJECT_DIR$/admin.html" />
+        <option value="$PROJECT_DIR$/dashboard/css/khabear.css" />
+        <option value="$PROJECT_DIR$/newAdmin.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="khabear Template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../khabear - Admin/dashboard/css/khabear.css" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../khabear - Admin/dashboard/css/khabear.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/MustafaKhaledDev/Khabear.git" />
+      <recent name="https://www.google.com.eg/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=phpstorm+github" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.newAdmin.html">
+    <configuration default="false" name="schedular.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/khabear Template/schedular.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="main dashboard.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/khabear Template/main dashboard.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="report.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/khabear Template/report.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="newAdmin.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/khabear Template/newAdmin.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="admin.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/khabear Template/admin.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.schedular.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.main dashboard.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.report.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.newAdmin.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.admin.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.newAdmin.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.admin.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.report.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.schedular.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.main dashboard.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\pc7\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84e8f44d-7433-4273-8c85-23cca0a001c6" name="Default" comment="" />
+      <created>1485423743477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485423743477</updated>
+      <workItem from="1485423744835" duration="36000" />
+      <workItem from="1485423794216" duration="28000" />
+      <workItem from="1485423990681" duration="77000" />
+      <workItem from="1485424069554" duration="10735000" />
+      <workItem from="1485594463413" duration="26558000" />
+      <workItem from="1485676664213" duration="3029000" />
+      <workItem from="1485686422186" duration="8966000" />
+      <workItem from="1485697842293" duration="16291000" />
+      <workItem from="1485775589303" duration="19471000" />
+      <workItem from="1485855617482" duration="22616000" />
+      <workItem from="1485948517994" duration="23984000" />
+      <workItem from="1486031816261" duration="4678000" />
+      <workItem from="1486038391839" duration="17000" />
+      <workItem from="1486038414457" duration="357000" />
+      <workItem from="1486209666019" duration="5987000" />
+      <workItem from="1486221908618" duration="686000" />
+      <workItem from="1489167497291" duration="53972000" />
+      <workItem from="1489521033441" duration="788000" />
+      <workItem from="1489586225727" duration="6130000" />
+      <workItem from="1489785999809" duration="2015000" />
+      <workItem from="1489966399920" duration="597000" />
+      <workItem from="1489992959539" duration="2816000" />
+      <workItem from="1517820739994" duration="6819000" />
+      <workItem from="1517829480305" duration="21956000" />
+      <workItem from="1517989479235" duration="15691000" />
+      <workItem from="1518088792001" duration="6990000" />
+      <workItem from="1518251115490" duration="5931000" />
+      <workItem from="1518333541853" duration="17635000" />
+      <workItem from="1518443630137" duration="1908000" />
+      <workItem from="1518512543920" duration="15855000" />
+      <workItem from="1518596549629" duration="4395000" />
+      <workItem from="1518701072126" duration="915000" />
+      <workItem from="1518704686782" duration="594000" />
+      <workItem from="1518955501306" duration="4459000" />
+      <workItem from="1519025206829" duration="9628000" />
+      <workItem from="1519110686680" duration="768000" />
+      <workItem from="1519130386110" duration="28624000" />
+      <workItem from="1519218055007" duration="1292000" />
+      <workItem from="1519294315087" duration="7687000" />
+      <workItem from="1519458889120" duration="10740000" />
+      <workItem from="1519545069836" duration="8560000" />
+      <workItem from="1519636522740" duration="7089000" />
+      <workItem from="1519719464630" duration="9418000" />
+      <workItem from="1519769147307" duration="8162000" />
+      <workItem from="1519909289333" duration="2034000" />
+      <workItem from="1520076024551" duration="4765000" />
+      <workItem from="1520153430767" duration="1785000" />
+      <workItem from="1520245680892" duration="1345000" />
+      <workItem from="1522506218603" duration="654000" />
+      <workItem from="1523442320896" duration="17085000" />
+      <workItem from="1523795313822" duration="3844000" />
+      <workItem from="1523868498288" duration="7080000" />
+      <workItem from="1523958796340" duration="695000" />
+      <workItem from="1524040239981" duration="2304000" />
+      <workItem from="1524050226286" duration="6570000" />
+      <workItem from="1524123873028" duration="1836000" />
+      <workItem from="1524126973611" duration="7040000" />
+      <workItem from="1524397411877" duration="6024000" />
+      <workItem from="1524472650376" duration="599000" />
+      <workItem from="1524476374412" duration="6134000" />
+      <workItem from="1524556243144" duration="778000" />
+      <workItem from="1524557324857" duration="3076000" />
+      <workItem from="1524646009063" duration="1213000" />
+      <workItem from="1531816087367" duration="573000" />
+      <workItem from="1531816739945" duration="3086000" />
+      <workItem from="1547646989380" duration="4738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="488240000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16510417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../khabear_server3/resources/views/layouts/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../khabear_new/main dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/bootstrap-datetimepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://www.google.com.eg/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=phpstorm+github">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="https://github.com/MustafaKhaledDev/Khabear.git">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/member.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="990" column="27" lean-forward="false" selection-start-line="990" selection-start-column="27" selection-end-line="990" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assessments index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="828" column="37" lean-forward="false" selection-start-line="828" selection-start-column="37" selection-end-line="828" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fill report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="343" column="46" lean-forward="false" selection-start-line="343" selection-start-column="46" selection-end-line="343" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/member profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="823" column="22" lean-forward="false" selection-start-line="823" selection-start-column="22" selection-end-line="823" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/members index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="1156" column="42" lean-forward="false" selection-start-line="1156" selection-start-column="42" selection-end-line="1156" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quality member profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="822" column="26" lean-forward="false" selection-start-line="822" selection-start-column="26" selection-end-line="822" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/members.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="84" column="23" lean-forward="false" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/assessments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/datatables.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/fill_report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MIQ/Source/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../../MIQ/Source/css/arabic.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc" />
+    <entry file="file://$PROJECT_DIR$/add assessment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19091">
+          <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/add_assessment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Tools/alloy-3.0.1/src/aui-scheduler/js/aui-scheduler-view-day.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37412">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Tools/alloy-3.0.1/src/aui-scheduler/js/aui-scheduler-touch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Tools/alloy-3.0.1/demos/scheduler/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-base.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-base-event.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-event-recorder.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-touch.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-view-agenda.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-view-day.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-view-table.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-view-week.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-view-table-dd.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-view-month.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-base-view.js" />
+    <entry file="file://$PROJECT_DIR$/dashboard/js/aui-scheduler-base-calendar.js" />
+    <entry file="file://$PROJECT_DIR$/main dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="394" column="20" lean-forward="true" selection-start-line="394" selection-start-column="20" selection-end-line="394" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="937" column="23" lean-forward="false" selection-start-line="934" selection-start-column="23" selection-end-line="937" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../khabear-Source/dashboard/css/khabear.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="868" column="65" lean-forward="false" selection-start-line="868" selection-start-column="65" selection-end-line="868" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/css/report.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/main_dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <marker date="1547650323730" expanded="true" signature="855:860" ph="°" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../khabear - Admin/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3317">
+          <caret line="852" column="32" lean-forward="false" selection-start-line="852" selection-start-column="32" selection-end-line="852" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../khabear - Admin/dashboard/js/main_dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../khabear - Admin/dashboard/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/js/newAdmin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/css/khabear.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="1004" column="13" lean-forward="true" selection-start-line="1004" selection-start-column="13" selection-end-line="1004" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newAdmin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
