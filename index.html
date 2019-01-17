@@ -66,7 +66,7 @@
                 <p>Admin & SEO</p>
             </div>
             <ul class="icons">
-                <a href="#">
+                <a href="#" data-toggle="popover" tabindex="0" role="button" data-trigger="focus">
                     <li class="notifications">
                         <i class="ion ion-android-notifications"></i>
                         <span class="noti-counter">8</span>
@@ -369,16 +369,16 @@
                     <a href="#">View all</a>
                 </li>
                 <!--<a href="" id="add-assessmrnt-link">-->
-                    <!--<li class="side-bar-link my-tooltip" title="Add assessments">-->
-                        <!--<div class="menu-icon"><span></span></div>-->
-                        <!--<p>Add Assessments</p>-->
-                    <!--</li>-->
+                <!--<li class="side-bar-link my-tooltip" title="Add assessments">-->
+                <!--<div class="menu-icon"><span></span></div>-->
+                <!--<p>Add Assessments</p>-->
+                <!--</li>-->
                 <!--</a>-->
                 <!--<a href="" id="add-member-link">-->
-                    <!--<li class="side-bar-link my-tooltip" title="Add member">-->
-                        <!--<div class="menu-icon"><span></span></div>-->
-                        <!--<p>Add Member</p>-->
-                    <!--</li>-->
+                <!--<li class="side-bar-link my-tooltip" title="Add member">-->
+                <!--<div class="menu-icon"><span></span></div>-->
+                <!--<p>Add Member</p>-->
+                <!--</li>-->
                 <!--</a>-->
                 <a href="#">
                     <li class="side-bar-link my-tooltip" title="Send broadcast">
@@ -426,12 +426,12 @@
                 </ul>
                 <div class="logout-settings">
                     <!--<a href="">-->
-                        <!--<li>-->
-                            <!--<div class="menu-icon">-->
-                                <!--<i class="ion ion-android-settings"></i>-->
-                            <!--</div>-->
-                            <!--<p>Settings</p>-->
-                        <!--</li>-->
+                    <!--<li>-->
+                    <!--<div class="menu-icon">-->
+                    <!--<i class="ion ion-android-settings"></i>-->
+                    <!--</div>-->
+                    <!--<p>Settings</p>-->
+                    <!--</li>-->
                     <!--</a>-->
                     <a href="http://127.0.0.1/khabear_system2/public/logout">
                         <li>
@@ -856,8 +856,10 @@
                     <h3>Quality Members</h3>
                     <p class="activity-date">December 11 - December 17</p>
                     <div class="row">
-                        <p class="activity-num">75</p>
-                        <a href="#" class="activity-view">View</a>
+                        <div class="col-xs-12">
+                            <p class="activity-num">75</p>
+                            <a href="#" class="activity-view">View</a>
+                        </div>
                     </div>
                     <canvas class="myChart"></canvas>
                 </div>
@@ -870,8 +872,10 @@
                     <h3>Assessments</h3>
                     <p class="activity-date">December 11 - December 17</p>
                     <div class="row">
-                        <p class="activity-num">32</p>
-                        <a href="#" class="activity-view">View</a>
+                        <div class="col-xs-12">
+                            <p class="activity-num">32</p>
+                            <a href="#" class="activity-view">View</a>
+                        </div>
                     </div>
                     <canvas class="myChart"></canvas>
                 </div>
@@ -884,8 +888,10 @@
                     <h3>Reports</h3>
                     <p class="activity-date">December 11 - December 17</p>
                     <div class="row">
-                        <p class="activity-num">132</p>
-                        <a href="#" class="activity-view">View</a>
+                        <div class="col-xs-12">
+                            <p class="activity-num">132</p>
+                            <a href="#" class="activity-view">View</a>
+                        </div>
                     </div>
                     <canvas class="myChart"></canvas>
                 </div>
@@ -898,8 +904,10 @@
                     <h3>Incomes</h3>
                     <p class="activity-date">December 11 - December 17</p>
                     <div class="row">
-                        <p class="activity-num">32</p>
-                        <a href="#" class="activity-view">View</a>
+                        <div class="col-xs-12">
+                            <p class="activity-num">32</p>
+                            <a href="#" class="activity-view">View</a>
+                        </div>
                     </div>
                     <canvas class="myChart"></canvas>
                 </div>
@@ -912,8 +920,10 @@
                     <h3>Foundations</h3>
                     <p class="activity-date">December 11 - December 17</p>
                     <div class="row">
-                        <p class="activity-num">32</p>
-                        <a href="#" class="activity-view">View</a>
+                        <div class="col-xs-12">
+                            <p class="activity-num">32</p>
+                            <a href="#" class="activity-view">View</a>
+                        </div>
                     </div>
                     <canvas class="myChart"></canvas>
                 </div>
@@ -926,8 +936,10 @@
                     <h3>Experts</h3>
                     <p class="activity-date">December 11 - December 17</p>
                     <div class="row">
-                        <p class="activity-num">32</p>
-                        <a href="#" class="activity-view">View</a>
+                        <div class="col-xs-12">
+                            <p class="activity-num">32</p>
+                            <a href="#" class="activity-view">View</a>
+                        </div>
                     </div>
                     <canvas class="myChart"></canvas>
                 </div>
@@ -940,30 +952,30 @@
     </footer>
 </div>
 
-    <![if !(IE)|(gt IE 8)]>
-    <script src="dashboard/js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="dashboard/js/Chart.min.js"></script>
-    <script src="dashboard/js/tooltipster.bundle.min.js"></script>
-    <script src="dashboard/js/jquery.treegrid.min.js"></script>
-    <script src="dashboard/js/jquery.treegrid.bootstrap3.js"></script>
-    <script src="dashboard/js/jquery.knob.min.js"></script>
-    <script src="dashboard/js/jquery.simpleWeather.min.js"></script>
-    <script src="dashboard/js/load-image.all.min.js"></script>
-    <script src="dashboard/js/canvas-to-blob.min.js"></script>
-    <script src="dashboard/js/jquery.ui.widget.js"></script>
-    <script src="dashboard/js/jquery.iframe-transport.js"></script>
-    <script src="dashboard/js/jquery.fileupload.js"></script>
-    <script src="dashboard/js/jquery.fileupload-process.js"></script>
-    <script src="dashboard/js/jquery.fileupload-image.js"></script>
-    <script src="dashboard/js/jquery.fileupload-audio.js"></script>
-    <script src="dashboard/js/jquery.fileupload-video.js"></script>
-    <script src="dashboard/js/jquery.fileupload-validate.js"></script>
-    <script src="dashboard/js/main_dashboard.js"></script>
-    <![endif]>
+<![if !(IE)|(gt IE 8)]>
+<script src="dashboard/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="dashboard/js/Chart.min.js"></script>
+<script src="dashboard/js/tooltipster.bundle.min.js"></script>
+<script src="dashboard/js/jquery.treegrid.min.js"></script>
+<script src="dashboard/js/jquery.treegrid.bootstrap3.js"></script>
+<script src="dashboard/js/jquery.knob.min.js"></script>
+<script src="dashboard/js/jquery.simpleWeather.min.js"></script>
+<script src="dashboard/js/load-image.all.min.js"></script>
+<script src="dashboard/js/canvas-to-blob.min.js"></script>
+<script src="dashboard/js/jquery.ui.widget.js"></script>
+<script src="dashboard/js/jquery.iframe-transport.js"></script>
+<script src="dashboard/js/jquery.fileupload.js"></script>
+<script src="dashboard/js/jquery.fileupload-process.js"></script>
+<script src="dashboard/js/jquery.fileupload-image.js"></script>
+<script src="dashboard/js/jquery.fileupload-audio.js"></script>
+<script src="dashboard/js/jquery.fileupload-video.js"></script>
+<script src="dashboard/js/jquery.fileupload-validate.js"></script>
+<script src="dashboard/js/main_dashboard.js"></script>
+<![endif]>
 
-    <!--[if lte IE 8]>
-    <script src="dashboard/js/ie8/main_dashboard_ie8.js"></script>
-    <![endif]-->
+<!--[if lte IE 8]>
+<script src="dashboard/js/ie8/main_dashboard_ie8.js"></script>
+<![endif]-->
 
 </body>
 </html>

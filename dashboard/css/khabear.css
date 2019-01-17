@@ -87,7 +87,7 @@ a {
 }
 
 * {
-    outline: none;
+    outline: none !important;
 }
 
 h2 {
@@ -2168,8 +2168,8 @@ h2 {
     margin-top: 30px;
     border-radius: 5px;
     box-shadow: 0 1px 3px 0 #bbb;
-    /*-webkit-transition: all 0.1s ease-in-out;*/
-    /*transition: all 0.1s ease-in-out;*/
+    -webkit-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 .dashboard .content .activity:hover {
@@ -2191,11 +2191,13 @@ h2 {
     font-size: 22px;
     color: #4b4f56;
     margin-top: 10px;
+    text-align: center;
 }
 
 .dashboard .content .activity .activity-date {
     font-size: 12px;
     color: #a7a7a7;
+    text-align: center;
 }
 
 .dashboard .content .activity .total {
@@ -2221,6 +2223,7 @@ h2 {
 .dashboard .content .activity canvas {
     width: 100%;
     margin-top: 15px;
+    margin-left: -5px;
 }
 
 .dashboard .content .activity .course {
@@ -3485,9 +3488,9 @@ h2 {
     padding: 0;
 }
 
-.fill-report .popover,
-.fill-report .popover-content,
-.fill-report .popover-content .panel{
+.popover,
+.popover-content,
+.popover-content .panel{
     padding: 0;
     border-radius: 5px;
 }
@@ -4738,9 +4741,15 @@ h2 {
 .admin-select-assessment .new-criteria-row a,
 .admin-select-assessment .new-indicator-row a,
 .admin-select-assessment .add-practice-row a {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: bold;
     color: #7d7d7d;
+}
+
+.admin-select-assessment .new-criteria-row a:hover,
+.admin-select-assessment .new-indicator-row a:hover,
+.admin-select-assessment .add-practice-row a:hover {
+    color: #f35958;
 }
 
 .admin-select-assessment .new-criteria-row {

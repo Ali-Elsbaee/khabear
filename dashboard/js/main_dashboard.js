@@ -191,7 +191,7 @@ $(document).ready(function () {
                 }
             }
         });
-    })
+    });
 
 
 
@@ -346,7 +346,7 @@ $(document).ready(function () {
         var window_Width = window.innerWidth;
         if (window_Width < 1366) {
             if (window_Width < 768) {
-                $('.inbox-icon').popover('disable')
+                $('.inbox-icon').popover('disable');
                 closeSideBar();
                 closeRightSide();
             } else {
@@ -423,15 +423,15 @@ $(document).ready(function () {
                 theme:"minimal-dark"
             });
         })
-    })
+    });
 
     $('body').on('click','.friend',function () {
         if (window.innerWidth > 767) openMsgBox()
-    })
+    });
 
     $('#close-msg-box').on('click',function () {
         closeMsgBox();
-    })
+    });
     
     function openMsgBox() {
         msgBox.fadeIn('fast')
@@ -453,11 +453,11 @@ $(document).ready(function () {
      * **********************************/
     $('#open-add-sys').on('click',function () {
         $('#add-sys-menu').fadeIn('fast');
-    })
+    });
 
     $('#close-add-sys').on('click',function () {
         $('#add-sys-menu').fadeOut('fast');
-    })
+    });
 
 
 
@@ -548,7 +548,7 @@ $(document).ready(function () {
             .closest('tr')
             .find('input');
 
-        if ($(this).attr('data-editing') == 'edit') {
+        if ($(this).attr('data-editing') === 'edit') {
             input
                 .prop('disabled', false);
 
@@ -564,7 +564,7 @@ $(document).ready(function () {
 
             $(this)
                 .empty().text('Edit')
-                .prepend($('<i class="glyphicon glyphicon-edit"/>'))
+                .prepend($('<i class="glyphicon glyphicon-edit"/>'));
 
             $(this)
                 .attr('data-editing','edit');
