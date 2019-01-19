@@ -3066,7 +3066,7 @@ h2 {
 /*********************** Fill Report *****************************/
 
 .fill-report-side-bar .line {
-    border-left: 1px solid #3b3b43;
+    border-left: 1px solid #eeeeee;
     height: 100%;
     position: absolute;
     left: 20px;
@@ -3089,7 +3089,7 @@ h2 {
 }
 
 .tree tr:not(.treegrid-3) td p {
-    font-size: 17px !important;
+    font-size: 16px;
 }
 
 .fill-report-side-bar .tree td a p {
