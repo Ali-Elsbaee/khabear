@@ -3260,7 +3260,7 @@ h2 {
 /*}*/
 
 .dropzone.hover {
-    background: rgba(170, 211, 238, 0.1);
+    background: rgba(170, 211, 238, 0.3);
 }
 
 .dropzone.fade {
