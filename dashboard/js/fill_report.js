@@ -17,26 +17,26 @@ $(document).ready(function () {
             placement: 'top',
             trigger: 'manual'
         })
-    })
+    });
 
     $('body').on('click','.close-popover', function () {
         $(this).parents('.popover').popover('hide');
-    })
+    });
 
     $('#finish').on('click',function () {
         $('#finish').popover('show');
-    })
+    });
 
     $('.toggle-panel').on('click',function () {
         toggleExercise($(this));
-    })
+    });
 
     $('.practice-name').on('click',function () {
         $(this).siblings('.toggle-panel').click()
-    })
+    });
 
     function toggleExercise(btn) {
-        if (btn.parent('.panel-heading').next('.panel-body').attr('data-expanded') == 'true') {
+        if (btn.parent('.panel-heading').next('.panel-body').attr('data-expanded') === 'true') {
             btn
                 .parent('.panel-heading').next('.panel-body').slideUp('fast')
                 .attr('data-expanded','false');
@@ -57,14 +57,14 @@ $(document).ready(function () {
 
     $('.browse').click(function () {
         $(this).parents('div').next('input').click();
-    })
+    });
 
     $('.upload-more').click(function () {
         $(this).siblings('input').click();
-    })
+    });
 
     $(document).bind('dragover', function (e) {
-        var dropZone = e.target.closest('.dropzone'),
+        var dropZone = $('#dropzone'),
             timeout = window.dropZoneTimeout;
         if (!timeout) {
             dropZone.addClass('in');
@@ -91,14 +91,13 @@ $(document).ready(function () {
         }, 100);
     });
 
-    $('.dropzone').each(function () {
-        var dropzone = $(this)
-        dropzone.fileupload({
+    $(function () {
+        $('#dropzone').fileupload({
             url: 'server/php/',
             dataType: 'json',
             autoUpload: true,
             acceptFileTypes: /(\.|\/)(gif|jpe?g|png|)$/i,
-            dropZone: $(this),
+            dropZone: $('#dropzone'),
             disableImageResize: /Android(?!.*Chrome)|Opera/
                 .test(window.navigator.userAgent),
             previewMaxWidth: 60,
@@ -106,13 +105,14 @@ $(document).ready(function () {
             maxFileSize: 10000000000
 
         }).on('fileuploadadd', function (e, data) {
-            dropzone.find('.uploaded + .upload-more').hide();
-            dropzone.find('.uploaded').hide(0,function () {
-                dropzone.find('.ready_upload').hide(0,function () {
-                    dropzone.find('.uploading').css('display','flex')
+            $('#uploaded + .upload-more').hide();
+            $('#uploaded').hide(0,function () {
+                $('#ready_upload').hide(0,function () {
+                    $('#uploading').css('display','flex')
                 });
             })
-            data.context = $('<div/>').appendTo(dropzone.find('.uploading'));
+
+            data.context = $('<div/>').appendTo('#uploading');
             $.each(data.files, function (index, file) {
                 var node = $('<p/>')
                     .append($('<span/>').text(file.name));
@@ -131,19 +131,20 @@ $(document).ready(function () {
                 // .append('<br>')
                     .append($('<span class="text-danger"/>').text(file.error));
             }
-            // if (index + 1 === data.files.length) {
-            //     data.context.find('button')
-            //         .text('Upload')
-            //         .prop('disabled', !!data.files.error);
-            // }
+            if (index + 1 === data.files.length) {
+                data.context.find('button')
+                    .text('Upload')
+                    .prop('disabled', !!data.files.error);
+            }
         }).on('fileuploadprogressall', function (e, data) {
             var progress = parseInt(data.loaded / data.total * 100, 10);
-            dropzone.find('.progress .bar').css(
+            $('#progress .bar').css(
                 'width',
                 progress + '%'
             );
             $('.uploading-progress p').text(progress + '%')
         }).on('fileuploaddone', function (e, data) {
+
             $.each(data.result.files, function (index, file) {
                 var thumb = $('<img/>')
                     .css('background-image','url('+ file.url +')')
@@ -151,7 +152,7 @@ $(document).ready(function () {
                 var node = $('<li/>')
                     .append(thumb)
                     .append($('<p/>').text(file.name));
-                node.prependTo(dropzone.find('.uploaded'));
+                node.prependTo($('#uploaded'));
                 if (file.url) {
                     var link = $('<a>')
                         .attr('target', '_blank')
@@ -166,18 +167,16 @@ $(document).ready(function () {
                 }
             });
 
-            dropzone.find('.uploading > div:not(.uploading-progress)').remove();
+            $('#uploading > div:not(.uploading-progress)').remove();
 
-
-            dropzone.find('.ready_upload').hide(0,function () {
-                dropzone.find('.uploading').hide(0,function () {
-                    dropzone.find('.uploaded').css('display','flex');
-                    dropzone.find('.uploaded + .upload-more').show();
-                    dropzone.find('.uploaded').mCustomScrollbar("destroy");
-                    dropzone.find('.uploaded').mCustomScrollbar({
+            $('#ready_upload').hide(0,function () {
+                $('#uploading').hide(0,function () {
+                    $('#uploaded').css('display','flex');
+                    $('#uploaded + .upload-more').show();
+                    $('#uploaded').mCustomScrollbar("destroy");
+                    $('#uploaded').mCustomScrollbar({
                         axis: 'x',
                         scrollbarPosition: "inside",
-                        theme:"minimal-dark",
                         option: {
                             advanced:{
                                 updateOnContentResize: true,
@@ -195,6 +194,6 @@ $(document).ready(function () {
                     .append(error);
             });
         })
-    })
+    });
 
-})
+});
